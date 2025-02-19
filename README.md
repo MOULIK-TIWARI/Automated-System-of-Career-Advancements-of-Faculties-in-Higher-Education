@@ -6,6 +6,6 @@ This system aims to **eliminate paper based evaluation** promoting transparency 
 ## Features
 1.**User Authentication and Access Control**  
 2.**Faculty Self-Appraisal Form**  
-3.**Admin Panel for Evaluation**
-4.**Secure Database**
-5.**Responsive UI**
+3.**Admin Panel for Evaluation**  
+4.**Secure Database**  
+5.**Responsive UI**  
